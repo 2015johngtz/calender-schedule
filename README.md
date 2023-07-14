@@ -32,7 +32,7 @@ To install the application, clone the GitHub repository and simply open the `ind
 
 ```git clone https://github.com/2015johngtz/calender-schedule```
 
-Or navigate here: 
+Or navigate here: https://2015johngtz.github.io/calender-schedule/
 
 ## Usage
 
